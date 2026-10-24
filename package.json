@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-cn-law",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "China (mainland) national law — one pack per jurisdiction (at-ris precedent: legislation AND case law together). Fleet #3136, from the feasibility spike docs/china-legal-feasibility.md (fleet #3131).",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-3da92cd0638ea7c760081693b0217150a103c1fb411efa0b771d8dda474c8a32",
-    "sourceCommit": "fe38188882d0fe91e5a45d82b7b989b4aae1e8b6"
+    "sourceHash": "v1-eced72227ae59a08d462b651e72be984bc9ea1c798123e02bd3dd0e3af2f8075",
+    "sourceCommit": "f1ef7a2f6b9cb1b8da1374ec2fcb28c661582b35"
   }
 }
